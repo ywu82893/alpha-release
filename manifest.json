@@ -1,7 +1,7 @@
 {
-  "version": "v2026.08.23.0008",
-  "url": "https://cdn.jsdelivr.net/gh/ywu82893/alpha-release@main/start.sh",
-  "sha256": "8d5f3fd9791740081bd2dcb024f860238687bac86a4780d6cbcc84c8be0bd66d",
+  "version": "v2026.08.23.0034",
+  "url": "https://raw.githubusercontent.com/ywu82893/alpha-release/main/start.sh",
+  "sha256": "be09b8341b973eb4d2e4ce536f9dc2ac416e5c4e31eb56279f604c222d23140b",
   "size": 2936984,
   "force": 0,
   "notes": ""
